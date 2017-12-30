@@ -1,2 +1,2 @@
-# EOTCoinPaperWallet
-EOT Coin Paper Wallet
+# BitmillionPaperWallet
+Bitmillion Paper Wallet
